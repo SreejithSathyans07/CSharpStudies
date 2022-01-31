@@ -1,0 +1,6 @@
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\bin\Debug\Department.dll
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\bin\Debug\Department.pdb
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\obj\Debug\Department.csproj.AssemblyReference.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\obj\Debug\Department.dll
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Department\obj\Debug\Department.pdb

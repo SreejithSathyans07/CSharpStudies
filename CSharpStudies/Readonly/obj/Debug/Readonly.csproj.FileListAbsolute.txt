@@ -1,0 +1,8 @@
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\bin\Debug\Readonly.exe.config
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\bin\Debug\Readonly.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\bin\Debug\Readonly.pdb
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\obj\Debug\Readonly.csproj.AssemblyReference.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\obj\Debug\Readonly.csproj.SuggestedBindingRedirects.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\obj\Debug\Readonly.csproj.CoreCompileInputs.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\obj\Debug\Readonly.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Readonly\obj\Debug\Readonly.pdb

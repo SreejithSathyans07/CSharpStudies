@@ -1,0 +1,7 @@
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\bin\Debug\Encapsulation.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\obj\Debug\Encapsulation.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\Encapsulation\obj\Debug\Encapsulation.pdb

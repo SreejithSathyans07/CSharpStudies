@@ -1,0 +1,8 @@
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.AssemblyReference.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.SuggestedBindingRedirects.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+C:\My Dev Files\C#\CSharpStudies\CSharpStudies\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb
